@@ -2,7 +2,7 @@
 
 
 
-## <img src="https://img.shields.io/badge/Google Scholar-4285F4?style=for-the-badge&logo=Google Scholar&logoColor=white">   출신학교
+## 🏫 출신학교 🏫
 
 - 초/중/고 졸업
   - 서울송화초등학교
