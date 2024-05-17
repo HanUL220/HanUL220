@@ -18,11 +18,10 @@
 - 리눅스마스터2급 / 취득일자 - 2023년 12월 / 한국정보통신진흥협회
 - 정보처리기사 / 취득일자 - 2024년 0?월 / 한국산업인력공단
 
-## ⌨️ Project ⌨️
-- Arduino 로 배워가기 - aws연결, 온습도, LED 센서, Node-red UI 연결 등
+## ⌨️ Project ⌨️=
 - Raspberrypi 4 를 이용한 스마트팜 만들기 - 온습도 센서, 조도 센서, 토양 수분 센서, LED 조명, 블루투스 모듈 등 사용
-- Short_URL_Site - 초간단 링크 줄이는 웹사이트 제작
 - 나만의 학생증 만들기 앱 - Xcode를 이용하여 자체 학생증 앱이 없는 학생들에게 보다 쉽게 접근 할 수 있는 앱 제작
+- Short_URL_Site - 초간단 링크 줄이는 웹사이트 제작 - 중지
 
 ## ✏️ Tech Stack ✏️
 <!-- <img src="https://img.shields.io/badge/아이콘이름-추천 색상?style=for-the-badge&logo=아이콘 이름&logoColor=white"> -->
